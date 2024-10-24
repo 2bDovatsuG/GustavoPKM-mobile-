@@ -1,0 +1,16 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+
+:root {
+    --cor-de-fundo: #c00101;
+    --preto: #000000;
+    --amarelo: #FFFF00;
+    --branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-size: 16px;
+    font-weight: 400;
+}
